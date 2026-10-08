@@ -1,0 +1,67 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAzAAAAAAAAMD/DAAAAAAAwPgPAAAAAACsiA8JAADuwJqJnwkA4O7OGYkPCQDg5RQZiQ8AAODlFBmJDwAA4OkUmYkPCQAA7s6ZiJ8JAAAAwKqIDwkAAADAqogPAAAAAMCI+A8AAAAAAIz4DwAAAAAAwPIPAAAAAAAA/wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hover_Bike_Right_1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAzAAAAAAAAMD/DAAAAAAAwPgPAAAAAACsiA+QAADuwJqJD5kA4O7OGYkPkADg5RQZiQ8AAODlFBmJDwAA4OkUmYkPkAAA7s6ZiA+ZAAAAwKqID5AAADDAqogPAAAAAMCI+A8AAAAAAIz4DwAAAAAAwPIPAAAAAAAA/wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hover_Bike_Right _2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAA/wAAAAAAAMDyDwAAAAAAjPgPAAAAAACI+A8AAAAAwKqIDwAAAADAqogPCQAA7s6ZiJ8JAODpxJmJDwkA4OUUGYkPAADg5RQZiQ8AAODuHhmJDwkAAO7AmomfCQAAAMCsiA8JAAAAAMD4DwAAAAAAwP8MAAAAAAAAzAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hover_Bike_Left_1"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAA/wAAAAAAAMDyDwAAAAAAjPgPAAAAAACI+A8AAAAAwKqIDwAAAADAqogPkAAA7s6ZiA+ZAODpxJmJD5AA4OUUGYkPAADg5RQZiQ8AAODuHhmJD5AAAO7AmokPmQAAAMCsiA+QAAAAAMD4DwAAAAAAwP8MAAAAAAAAzAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hoover_Bike_Left_2"
+    },
+    "image12": {
+        "data": "hwQQABAAAAD//////////x+JkRiBGZjxnxGJuZuYEfmPsbu7u7sb+B+5mRmRmZvxn7gZgRiRi/mPuRm4i5Gb+B+bgRuxGLnxH5uBG7EYufGPuRm4i5Gb+J+4GYEYkYv5H7mZGZGZm/GPsbu7u7sb+J8RibmbmBH5H4mRGIEZmPH//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mainframe_Exit_Portal"
+    },
+    "image11": {
+        "data": "hwQQABAAAAD//////////09ERERERET0T/////////RPT0VFRUX19E9fIiIiIvT0T09CREQk9fRPX0JVVST09E9PQhVRJPX0T19CFVEk9PRPT0JVVST19E9fQkREJPT0T08iIiIi9fRPX0VFRUX09E/////////0T0RERERERPT//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ICE_Breaker_FIreWall"
+    },
+    "image10": {
+        "data": "hwQQABAAAAD//////////393d3d3d3f3f/////////d/f3Z2dnb2939vYWFhYff3f392dnZ29vd/b2ERYWH3939/dmEWdvb3f29hYRZh9/d/f3YRYXb2939vYXZ2Yff3f392YWF29vd/b2F2dmH393/////////3f3d3d3d3d/f//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Green_Data_Collector"
+    },
+    "image9": {
+        "data": "hwQQABAAAAD//////////4+ZmZmZmZn4n4iIiIiIiPmfmJmZmZmJ+Z+YEREREYn5n5iBmIkYifmfmIEZkRiJ+Z+YkRERGYn5n5iREREZifmfmIEZkRiJ+Z+YgZiJGIn5n5gRERERifmfmJmZmZmJ+Z+IiIiIiIj5j5mZmZmZmfj//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blue_City_Gate"
+    },
+    "image8": {
+        "data": "hwQQABAAAAD//////////y8iIiIiIiLyL/////////IvLyIiIiLy8i8vEREREfLyLy8hEiES8vIvLyESEhHy8i8vESEiEfLyLy8RISIR8vIvLyESEhHy8i8vIRIhEvLyLy8RERER8vIvLyIiIiLy8i/////////yLyIiIiIiIvL//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Red_Sec_Hacking_Term"
+    },
+    "image7": {
+        "data": "hwQQABAAAAD//////////19VVVVVVVX1X/////////VfT0RERET09V9PVVVVVfT1X08VURVR9PVfTxVRFVH09V9PVRURUfT1X09VFRFR9PVfTxVRFVH09V9PFVEVUfT1X09VVVVV9PVfT0RERET09V/////////1X1VVVVVVVfX//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Yellow_Bat_Charge"
+    },
+    "image6": {
+        "data": "hwQQABAAAAARERERERERgcHMzMzMzMyMwbu7u7u7u4zB+/////+/jMH7iIiIiL+MwfvIzMyMv4zB+8j//4y/jMH7yB/xjL+MwfvIH/GMv4zB+8j//4y/jMH7yMzMjL+MwfuIiIiIv4zB+/////+/jMG7u7u7u7uMwczMzMzMzIyBiIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Wall_Obsticle"
+    },
+    "image5": {
+        "data": "hwQQABAAAADMzMzMzMzMzPz////////P/IiIiIiIiM/8+P////+Pz/z4mZmZmY/P/Pj5//+fj8/8+Pn//5+Pz/z4+f//n4/P/Pj5//+fj8/8+Pn//5+Pz/z4+f//n4/P/PiZmZmZj8/8+P////+Pz/yIiIiIiIjP/P///////8/MzMzMzMzMzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "HWY_Tile"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

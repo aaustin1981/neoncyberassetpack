@@ -1,0 +1,12 @@
+let mySprite = sprites.create(assets.image`Hover_Bike_Right_1`, SpriteKind.Player)
+let mySprite2 = sprites.create(assets.image`Hover_Bike_Right _2`, SpriteKind.Player)
+let mySprite3 = sprites.create(assets.image`Hover_Bike_Left_1`, SpriteKind.Player)
+let mySprite4 = sprites.create(assets.image`Hoover_Bike_Left_2`, SpriteKind.Player)
+let rd = assets.image`HWY_Tile`
+let MWall = assets.image`Wall_Obsticle`
+let ckka = assets.image`Yellow_Bat_Charge`
+let chkb = assets.image`Red_Sec_Hacking_Term`
+let chkc = assets.image`Blue_City_Gate`
+let chkd = assets.image`Green_Data_Collector`
+let chke = assets.image`ICE_Breaker_FIreWall`
+let chkf = assets.image`Mainframe_Exit_Portal`
